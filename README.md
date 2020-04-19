@@ -4,6 +4,8 @@ Tools
 Scala scripting tool from @lihaoyi
 http://ammonite.io/
 
+Install ammonite, go to root of this repo and run `amm verify.scala`
+
 Yankes links
 -
 
