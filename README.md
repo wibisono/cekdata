@@ -1,10 +1,14 @@
 Tools
 -
 
-Scala scripting tool from @lihaoyi
+Install Scala scripting tool from @lihaoyi
 http://ammonite.io/
 
-Install ammonite, go to root of this repo and run `amm verify.scala`
+Check address/bedmonitor:
+```
+amm address.scala
+amm bedmonitor.scala
+```
 
 Yankes links
 -
