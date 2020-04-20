@@ -21,4 +21,4 @@ Yankes links
 Kesimpulan Sementara
 -
 
-Dari hampir [3000 rumah sakit](https://github.com/wibisono/cekdata/blob/master/data/data-rs.csv) ada 1388 yang memiliki data [bed monitoring](https://github.com/wibisono/cekdata/blob/master/data/bedmonitor.csv) dan 1249 yang memiliki data [alamat](https://github.com/wibisono/cekdata/blob/master/data/alamat.csv)
+Dari 2900 [rumah sakit](https://github.com/wibisono/cekdata/blob/master/data/data-rs.csv) ada 1388 yang memiliki data [bed monitoring](https://github.com/wibisono/cekdata/blob/master/data/bedmonitor.csv) dan 1249 yang memiliki data [alamat](https://github.com/wibisono/cekdata/blob/master/data/alamat.csv)
