@@ -9,6 +9,11 @@ Check address/bedmonitor:
 amm address.scala
 amm bedmonitor.scala
 ```
+Contoh hasil data:
+- https://github.com/wibisono/cekdata/blob/master/data/bedmonitor.csv
+- https://github.com/wibisono/cekdata/blob/master/data/alamat.csv
+
+Data rumah sakit (data-rs.csv) perlu manual clean up dari datars.php karena formatnya tab separated file tapi ada inkonsistensi penggunaan tab dan quote.
 
 Yankes links
 -
