@@ -18,3 +18,7 @@ Yankes links
 - alamat => http://sirs.yankes.kemkes.go.id/sirsservice/sisrute/detailrs.php?kode=1103010
 
 
+Kesimpulan Sementara
+-
+
+Dari hampir [3000 rumah sakit](https://github.com/wibisono/cekdata/blob/master/data/data-rs.csv) ada 1388 yang memiliki data [bed monitoring](https://github.com/wibisono/cekdata/blob/master/data/bedmonitor.csv) dan 1249 yang memiliki data [alamat](https://github.com/wibisono/cekdata/blob/master/data/alamat.csv)
